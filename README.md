@@ -1,4 +1,8 @@
-# uuid-base58 ![workflow](https://github.com/AlexanderMatveev/go-uuid-base58/actions/workflows/go.yml/badge.svg) ![test-coverage](https://goreportcard.com/badge/github.com/AlexanderMatveev/go-uuid-base58)
+# uuid-base58
+
+[![Workflow](https://github.com/AlexanderMatveev/go-uuid-base58/actions/workflows/go.yml/badge.svg)](https://github.com/AlexanderMatveev/go-uuid-base58/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/AlexanderMatveev/go-uuid-base58)](https://goreportcard.com/report/github.com/AlexanderMatveev/go-uuid-base58)
+
 
 ## Overview
 
