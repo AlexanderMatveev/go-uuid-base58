@@ -1,4 +1,4 @@
-# uuid-base58
+# uuid-base58 ![workflow](https://github.com/AlexanderMatveev/go-uuid-base58/actions/workflows/go.yml/badge.svg)
 
 ## Overview
 
